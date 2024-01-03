@@ -1,0 +1,2 @@
+to run it in the local machine we need to find the ip address of the project by typing "Ifconfig" it should be displayed enp0s8 section.
+simply copy the ip address and browse from any web browser
